@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-image : linear-gradient(lavender,yellow,lightblue);
+}
+button{
+    width: 10%;
+    height: 05%;
+    background-image: linear-gradient(pink,lightgreen,orange);
+}
